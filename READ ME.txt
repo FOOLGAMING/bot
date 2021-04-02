@@ -1,0 +1,19 @@
+Everything you do with this self bot is NOT on me!
+
+USER AT OWN RISK!
+
+Commands : 
+$channels - Deletes all channels!
+$nuke - Fucks entire server.
+$icon - Changes server icon to any link.
+$massvc - Mass Spams voice Channels!
+$embed - Makes any message inputted in embed!
+$uptime - Shows bots uptime!
+$raid - Raid's a server with inputted webhook!
+$setname - Changes name of the server.
+$roles - Spames roles!
+$banall - Ban's ever user
+$kickall - Kick's every user
+$ping - Shows ping between bot a user
+$off - Turns off bot ( Cant use command to turn back on )
+
